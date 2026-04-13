@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/bc58d1df-3379-4e2c-b2d0-6909831855a0/thumbnail" >
+</p>
 <!--
 **samuel-thomas-kavoo/samuel-thomas-kavoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
